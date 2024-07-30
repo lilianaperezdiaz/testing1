@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#DS data
+.ds
+
 # Distribution / packaging
 .Python
 build/
